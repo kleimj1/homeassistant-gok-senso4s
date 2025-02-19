@@ -1,9 +1,0 @@
-{
-  "domain": "gok_senso4s",
-  "name": "GOK Senso4s",
-  "version": "1.0.0",
-  "documentation": "https://github.com/kleimj1/gok_senso4s",
-  "requirements": ["pexpect"],
-  "dependencies": [],
-  "codeowners": ["@yourname"]
-}
