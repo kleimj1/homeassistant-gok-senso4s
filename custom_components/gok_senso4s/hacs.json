@@ -1,0 +1,9 @@
+{
+  "name": "Home Assistant GOK Senso4s Integration",
+  "domain": "gok_senso4s",
+  "documentation": "https://github.com/kleimj1/homeassistant-gok-senso4s",
+  "codeowner": ["@kleimj1"],
+  "requirements": [],
+  "iot_class": "local_polling",
+  "version": "1.0.0"
+}
